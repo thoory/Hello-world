@@ -42,10 +42,11 @@
     CI/CD avec gitHub, Jenkins, Ansible, Kubernets sur AWS.</p>
     
     <u>Status:</u>
-    Git: OK
-    Jenkins: OK
-    Docker: OK
-    
+    <ul>
+        <li>Git: OK</li>
+        <li>Jenkins: OK</li>
+        <li>Docker: OK</li>
+    </ul>
     <p><a href="https://thomasory.org">Plus d'information...</a></p>
 </div>
 </body>
