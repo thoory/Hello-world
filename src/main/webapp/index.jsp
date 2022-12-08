@@ -40,6 +40,11 @@
     <h1>thomasory.com</h1>
     <p>Ce site a ete cree a l'aide de maven dans le but d'un exercice de deploiement d'un pipeline
     CI/CD avec gitHub, Jenkins, Ansible, Kubernets sur AWS.</p>
+    
+    Git: OK
+    Jenkins: OK
+    Docker: OK
+    
     <p><a href="https://thomasory.org">Plus d'information...</a></p>
 </div>
 </body>
