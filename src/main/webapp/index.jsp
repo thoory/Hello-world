@@ -41,6 +41,7 @@
     <p>Ce site a ete cree a l'aide de maven dans le but d'un exercice de deploiement d'un pipeline
     CI/CD avec gitHub, Jenkins, Ansible, Kubernets sur AWS.</p>
     
+    <u>Status:</u>
     Git: OK
     Jenkins: OK
     Docker: OK
