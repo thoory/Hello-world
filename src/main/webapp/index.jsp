@@ -48,7 +48,7 @@
         <li>Docker: OK</li>
         <li>Docker: En cours...</li>
     </ul>
-    <p><a href="https://thomasory.com">Plus d'information...</a></p>
+    <p><a href="https://thomasory.com">Plus d'information....</a></p>
 </div>
 </body>
 </html>
