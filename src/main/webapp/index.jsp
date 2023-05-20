@@ -49,7 +49,7 @@
         <li>DockerHub: OK</li>
         <li>Ansible: OK</li>
         <li>Kubernetes: OK</li>
-        <li>Pipeline complète: En cours...</li>
+        <li>Pipeline fonctionnelle : En cours...</li>
     </ul>
     <p><a href="https://thomasory.com">Plus d'information....</a></p>
 </div>
