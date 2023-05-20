@@ -49,7 +49,8 @@
         <li>DockerHub: OK</li>
         <li>Ansible: OK</li>
         <li>Kubernetes: OK</li>
-        <li>Pipeline fonctionnelle : En cours...</li>
+        <li>Pipeline fonctionnelle : OK</li>
+        <li>Configuration du type de mise à jour : En cours...</li>
     </ul>
     <p><a href="https://thomasory.com">Plus d'information....</a></p>
 </div>
