@@ -50,7 +50,7 @@
         <li>Ansible: OK</li>
         <li>Kubernetes: OK</li>
         <li>Pipeline fonctionnelle : OK</li>
-        <li>Configuration du type de mise à jour : En cours...</li>
+        <li>Configuration du type de mise a jour : En cours...</li>
     </ul>
     <p><a href="https://thomasory.com">Plus d'information....</a></p>
 </div>
