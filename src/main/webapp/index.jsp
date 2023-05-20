@@ -46,7 +46,10 @@
         <li>Git: OK</li>
         <li>Jenkins: OK</li>
         <li>Docker: OK</li>
-        <li>Docker: En cours...</li>
+        <li>DockerHub: OK</li>
+        <li>Ansible: OK</li>
+        <li>Kubernetes: OK</li>
+        <li>Pipeline complète: En cours...</li>
     </ul>
     <p><a href="https://thomasory.com">Plus d'information....</a></p>
 </div>
